@@ -14,7 +14,7 @@
   <h3 align="center">Video Sharing App</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
+     I Build this project step by step with the detailed tutorial by <b>JavaScript Mastery</b></a> YouTube.
     </div>
 </div>
 
